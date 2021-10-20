@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1wsx",
+        "name": "Cardiology",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "https://amarahospital.com/wp-content/uploads/elementor/thumbs/Cardiology-Cardiothoracic-Vascular-surgery_A-p3df0777eld667rdvom2kskkr16ln9cjhgqo1uwbv8.jpg"
+    },
+    {
+        "id": "41wsxd",
+        "name": "Physiotherapy",
+        "description": "Physical therapy (PT), also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain and make the most of a patient's mobility",
+        "img": "https://thebridge.in/wp-content/uploads/2020/09/Physiotherapy-Essex.jpg"
+    },
+    {
+        "id": "61wsx",
+        "name": "Dental Health",
+        "description": "Dental and oral health is an essential part of your overall health and well-being. Poor oral hygiene can lead to dental cavities and gum disease",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszkrlLUdFAZBrv13KUa38u4kaXtMFGOCHqA&usqp=CAU"
+    },
+    {
+        "id": "w1wsx",
+        "name": "Mental Health",
+        "description": "Mental health refers to cognitive, behavioral, and emotional well-being. if your mental or emotional state quickly gets worse, or you're worried about someone you know - help is available. You're not alone; talk to someone you ",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1CFNDFiufauEcjp1VvWrHJmB7xC5tMlb6Q&usqp=CAU"
+    },
+    {
+        "id": "1w5sx",
+        "name": "Lab Test",
+        "description": "A medical procedure that involves testing a sample of blood, urine, or other substance from the body. Laboratory tests can help determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the disease over time",
+        "img": "https://www.nchealthinfo.org/wp-content/uploads/2019/08/LabTestsAndDiagnostic.jpg"
+    },
+    {
+        "id": "41wsx",
+        "name": "General Surgery",
+        "description": "General Surgery is a discipline of surgery having a central core of knowledge embracing anatomy, physiology, metabolism, immunology, nutrition, pathology, wound healing, shock and resuscitation, intensive care, and neoplasia, which are common to all surgical specialties",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_y5U7H8-AaktR_-JVdM0BShH6oSzMz-ptdw&usqp=CAU"
+    }
+]

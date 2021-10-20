@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9de0ae06.chunk.css",
+    "main.js": "/static/js/main.bb3bf491.chunk.js",
+    "main.js.map": "/static/js/main.bb3bf491.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce05e6be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce05e6be.js.map",
+    "static/js/2.6de5d90d.chunk.js": "/static/js/2.6de5d90d.chunk.js",
+    "static/js/2.6de5d90d.chunk.js.map": "/static/js/2.6de5d90d.chunk.js.map",
+    "static/js/3.315ae19a.chunk.js": "/static/js/3.315ae19a.chunk.js",
+    "static/js/3.315ae19a.chunk.js.map": "/static/js/3.315ae19a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9de0ae06.chunk.css.map": "/static/css/main.9de0ae06.chunk.css.map",
+    "static/js/2.6de5d90d.chunk.js.LICENSE.txt": "/static/js/2.6de5d90d.chunk.js.LICENSE.txt",
+    "static/media/Navigating-Care-During-the-COVID-19-Pandemic_-How-to-Get-the-Help-You-Need-When-You-Need-It.4f0a953c.jpg": "/static/media/Navigating-Care-During-the-COVID-19-Pandemic_-How-to-Get-the-Help-You-Need-When-You-Need-It.4f0a953c.jpg",
+    "static/media/depositphotos_246603700-stock-illustration-error-404-page-layout-vector.9c90e931.jpg": "/static/media/depositphotos_246603700-stock-illustration-error-404-page-layout-vector.9c90e931.jpg",
+    "static/media/doctor-ufe-foccupation-pinterest-boy-cards-19.368265ee.png": "/static/media/doctor-ufe-foccupation-pinterest-boy-cards-19.368265ee.png",
+    "static/media/health-still-life-with-copy-space.f0b65e6b.jpg": "/static/media/health-still-life-with-copy-space.f0b65e6b.jpg",
+    "static/media/tinnitus-medical-condition-1024x640.78dffcd7.jpg": "/static/media/tinnitus-medical-condition-1024x640.78dffcd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce05e6be.js",
+    "static/js/2.6de5d90d.chunk.js",
+    "static/css/main.9de0ae06.chunk.css",
+    "static/js/main.bb3bf491.chunk.js"
+  ]
+}
