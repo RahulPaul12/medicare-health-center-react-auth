@@ -1,0 +1,80 @@
+[
+    {
+        "id": 345,
+        "name": "Dr. Bowen Chan",
+        "gender": "Male",
+        "image": "https://us.123rf.com/450wm/rido/rido2002/rido200200099/141040315-happy-smiling-african-doctor-looking-at-camera-in-medical-office-portrait-of-black-man-doctor-workin.jpg?ver=6",
+        "Monday": "8:30am - 5:30pm",
+        "Tuesday": "10am - 8pm",
+        "Friday": "9am - 12pm",
+        "phone": "416-486-1956",
+        "address": {
+            "street": "473 Dupont Street",
+            "city": "Toronto",
+            "prov": "ON",
+            "postal": "M6G 1Y6"
+        }
+    },
+    {
+        "id": 564,
+        "name": "Dr. Michael Lewis BSc, MD, CCFP",
+        "gender": "Male",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGH2vrZZXFwmJqr-2Np0STlmW1wPBQEq8uCucwUjJ0mVpMpn_Cdo3cdoxrmQ-LlHRANos&usqp=CAU",
+        "Monday": "9am - 5pm",
+        "Tuesday": "9am - 12pm",
+        "Friday": "9am - 12pm",
+        "phone": "416-486-1956",
+        "address": {
+            "street": "200 St. Clair Ave. West Suite 110",
+            "city": "Toronto",
+            "prov": "ON",
+            "postal": "M4V 1R1"
+        }
+    },
+    {
+        "id": 675,
+        "name": "Dr. Sharon Hind BScH, MD, CCFP",
+        "gender": "Female",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlj3AS3gczyyMRlmoRH84lfCgo2MhY7n3uQ&usqp=CAU",
+        "Monday": "10am - 2pm",
+        "Tuesday": "11am - 5pm",
+        "Friday": "10am - 5pm",
+        "phone": "416-486-1956",
+        "address": {
+            "street": "200 St. Clair Ave. West Suite 110",
+            "city": "Toronto",
+            "prov": "ON",
+            "postal": "M4V 1R1"
+        }
+    },
+    {
+        "id": 152,
+        "name": "Dr. Sheeja Mathai",
+        "gender": "Female",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-uDIbzBqGHwaWmQjnyiuOR1C_ZHBVzZxAYKlM_G6bXBxnuHpt1WkkzVOzMIPKnoHVHI&usqp=CAU",
+        "Tuesday": "9am - 12pm",
+        "Friday": "9am - 12pm",
+        "phone": "647-722-2370",
+        "address": {
+            "street": "390 Steeles Avenue West",
+            "city": "Vaughan",
+            "prov": "ON",
+            "postal": "L4J"
+        }
+    },
+    {
+        "id": 222,
+        "name": "Dr. Preston Tran",
+        "gender": "Male",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1T2Balzxmz85bl6nkOm6GvPtQYOUMgZ2FjvzibIFgrlCiOV-Ioo5O-MEtxwI4cev4cU&usqp=CAU",
+        "Tuesday": "9am - 12pm",
+        "Friday": "9am - 12pm",
+        "phone": "647-722-2370",
+        "address": {
+            "street": "390 Steeles Avenue West",
+            "city": "Vaughan",
+            "prov": "ON",
+            "postal": "L4J"
+        }
+    }
+]
